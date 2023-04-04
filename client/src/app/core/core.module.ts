@@ -9,6 +9,7 @@ import { ToastrModule } from 'ngx-toastr';
 import { SectionHeaderComponent } from './section-header/section-header.component';
 import { BreadcrumbModule } from 'xng-breadcrumb';
 import { NgxSpinner, NgxSpinnerModule } from 'ngx-spinner';
+import { BasketModule } from '../basket/basket.module';
 
 
 
